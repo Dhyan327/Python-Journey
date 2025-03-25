@@ -1,9 +1,9 @@
-# Python-Journey
+![image](https://github.com/user-attachments/assets/50fc54ac-dfa3-4603-9f0e-bca97bc58f14)# Python-Journey
 Comprehensive Python learning repository based on The Ultimate Python Course by CodeWithHarry, covering basics to advanced concepts.
 
 # Ultimate Python Course by CodeWithHarry
-
-![Python]([https://img.shields.io/badge/Python-3.x-blue.svg](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=OJ3wzB8F_-zok96R))
+https://i.ytimg.com/vi/7wnove7K-ZQ/maxresdefault.jpg
+![Python]([https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=OJ3wzB8F_-zok96R])
 
 ## 📌 Overview
 This repository contains all the code and content from **The Ultimate Python Course** by CodeWithHarry. It covers Python concepts from **basics to advanced**, including functions, OOP, file handling, web scraping, and more.
