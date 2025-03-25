@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/50fc54ac-dfa3-4603-9f0e-bca97bc58f14)# Python-Journey
+# Python-Journey
 Comprehensive Python learning repository based on The Ultimate Python Course by CodeWithHarry, covering basics to advanced concepts.
 
 # Ultimate Python Course by CodeWithHarry
