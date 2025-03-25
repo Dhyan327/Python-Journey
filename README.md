@@ -2,7 +2,6 @@
 Comprehensive Python learning repository based on The Ultimate Python Course by CodeWithHarry, covering basics to advanced concepts.
 
 # Ultimate Python Course by CodeWithHarry
-https://i.ytimg.com/vi/7wnove7K-ZQ/maxresdefault.jpg
 ![Python]([https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=OJ3wzB8F_-zok96R])
 
 ## 📌 Overview
